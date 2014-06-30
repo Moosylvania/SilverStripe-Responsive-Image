@@ -1,0 +1,3 @@
+---
+Name: responsiveimage
+After: 'framework/*','cms/*'

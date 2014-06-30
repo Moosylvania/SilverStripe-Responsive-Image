@@ -20,6 +20,7 @@ Responsive Image module for SilverStripe implementing the bottom-padding techniq
             'HeroImage' => 'ResponsiveImage'
         );
 4. Inside your Templates, to render the proper output you would then call -
+
         $HeroImage.Responsive
 
 ### Notes:

@@ -1,6 +1,6 @@
 {
 	"name": "moosylvania/silverstripe-responsive-image",
-	"description": "Age Gate module for SilverStripe.",
+	"description": "Responsive Image module for SilverStripe.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "responsive", "image"],
 	"license": "MIT",
